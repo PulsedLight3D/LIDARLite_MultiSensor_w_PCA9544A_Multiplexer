@@ -1,4 +1,4 @@
-# LIDARLite_MultiSensor_w_PCA9544A_Multiplexer
+# LIDAR-Lite MultiSensor w/ PCA9544A I2C Multiplexer
 
 This sketch demonstrates getting distance from multiple LIDAR-Lite sensors with the NXP PCA9544A I2C Multiplexer.
 The PCA9544A easily allows 4 I2C devices to share the same I2C address.
