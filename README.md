@@ -19,7 +19,7 @@ http://arduino.cc/en/Guide/Libraries
 
 ## Arduino Setup
 
-![Multiplexer Fritzing Diagram](http://pulsedlight3d.com/pl3d/wp-content/uploads/2014/11/LIDARLite_MultiSensor_w_PCA9544A_Multiplexer_I2C_Library_Fritzing.jpg)
+![Multiplexer Fritzing Diagram](http://pl3d.us/ll-multiplexer-update.jpg)
 
 
 ### PCA9544A to Arduino Uno Setup
