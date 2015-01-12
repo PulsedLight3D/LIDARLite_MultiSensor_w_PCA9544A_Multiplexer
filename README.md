@@ -33,7 +33,7 @@ PCA9544A | Arduino Uno Pins
 ### LIDARLite(s) Setup
 
 LIDARLite Cable | Arduino Uno | PCA9544A Channel 0 | PCA9544A Channel 1 | PCA9544A Channel 2 | PCA9544A Channel 3
-:---|:---
+:---|:---|:---|:---|:---|:---
 5V | 5V ||||
 PWR EN | _(Unused)_ | _(Unused)_ | _(Unused)_ | _(Unused)_ | _(Unused)_
 MODE |  _(Unused)_ | _(Unused)_ | _(Unused)_ | _(Unused)_ | _(Unused)_
