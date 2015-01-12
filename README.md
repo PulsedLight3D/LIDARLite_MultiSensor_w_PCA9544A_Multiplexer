@@ -1,13 +1,13 @@
 # LIDAR-Lite MultiSensor w/ PCA9544A I2C Multiplexer
 
 This sketch demonstrates getting distance from multiple LIDAR-Lite sensors with the NXP PCA9544A I2C Multiplexer.
-The PCA9544A easily allows 4 I2C devices to share the same I2C address.
+The PCA9544A (or PCA9548) easily allows 4 I2C devices to share the same I2C address.
 
 ## Dependencies
 1. Arduino Uno compatible Board
 2. Arduino IDE (1.0.5 or newer)
 3. USB Cable
-4. 1 x PCA9544A I2C Multiplexer ([NXP PCA9544A Product Page](http://www.nxp.com/products/interface_and_connectivity/i2c/i2c_multiplexers_switches/series/PCA9544A.html), [PCA9544A Datasheet](http://www.nxp.com/documents/data_sheet/PCA9544A.pdf)) 
+4. 1 x PCA9544A I2C Multiplexer ([NXP PCA9544A Product Page](http://www.nxp.com/products/interface_and_connectivity/i2c/i2c_multiplexers_switches/series/PCA9544A.html), [PCA9544A Datasheet](http://www.nxp.com/documents/data_sheet/PCA9544A.pdf)) or PCA9548 (8 device multiplexer) 
 5. 2-4 x LIDAR-Lite Sensor
 6. The 'Arduino I2C Master Library' from DSS Circuits: http://www.dsscircuits.com/index.php/articles/66-arduino-i2c-master-library
 
