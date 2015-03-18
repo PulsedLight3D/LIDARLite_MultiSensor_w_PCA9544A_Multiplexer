@@ -20,7 +20,7 @@ http://arduino.cc/en/Guide/Libraries
 ## Arduino Setup
 
 ![Multiplexer Fritzing Diagram](http://pl3d.us/ll-multiplexer-update.jpg)
-
+*Note: The breakout board shown here is available from [SparkFun](https://www.sparkfun.com/products/495)
 
 ### PCA9544A to Arduino Uno Setup
 PCA9544A | Arduino Uno Pins
